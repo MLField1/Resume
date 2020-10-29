@@ -1,0 +1,235 @@
+---
+title: "Mason Field's resume"
+author: Mason Field
+date: "`r Sys.Date()`"
+output: 
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: TRUE
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+```{css, echo=FALSE}
+.pagedjs_page:not(:first-of-type) {
+  background: white;
+}
+.pagedjs_page:not(:first-of-type) {
+  --sidebar-width: 0rem;
+  --sidebar-background-color: #ffffff;
+  --main-width: calc(var(--content-width) - var(--sidebar-width));
+  --decorator-horizontal-margin: 0.2in;
+}
+```
+
+
+Aside
+================================================================================
+![Mason Field](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/SaskPower_Logo.svg/1280px-SaskPower_Logo.svg.png)
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> MField@Saskpower.com
+- <i class="fa fa-phone"></i> +1 306-380-4347
+- <i class="fa fa-home"></i> 239 1st St. E., Saskatoon
+- For more information, please contact me via email.
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+-  Experienced with power quality analysis, protection coordination, and distribution protection principles.
+
+-  Familiar with data analysis methods and statistics. 
+
+-  Worked in R, Excel, CYME.
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+
+Last updated on `r Sys.Date()`.
+
+Main
+================================================================================
+
+Mason Field {#title}
+--------------------------------------------------------------------------------
+
+### Currently searching for a permanent position in SaskPower
+I would like to find a position where I can leverage my distribution knowledge and, learn and develop new and existing skills, respectively
+
+Qualification Highlights {data-icon=briefcase}
+--------------------------------------------------------------------------------
+### Designed and Constructed Thermal Monitoring System 
+
+Saskatchewan Polytechnic
+
+Moose Jaw, Saskatchewan
+
+2020
+
+- Designed a thermal camera system to monitor on a display and record apparatus temperature into a database
+- Interfaced hardware (thermal sensor, single board computer and LCD display) and software together to achieve monitoring
+
+### Developed Thermal Inspection Program 
+
+SaskPower
+
+Regina, Saskatchewan
+
+2019
+
+- Conducted research and developed a SOP to inspect suspect Regina city distribution assets as a means of preventative maintenance
+- Used SOP to inspect three feeders in Regina area identifying 14 pieces of failing apparatus
+
+### Assisted Regina City Re-energization Policy 
+
+SaskPower
+
+Regina, Saskatchewan
+
+2019
+
+- Analyzed data from multiple sources to support a reclose feature on Regina city feeders
+- Worked with Management to develop metrics to make informed decisions
+
+Professional Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Distribution Engineering, O&M Support North 
+
+SaskPower
+
+Prince Albert, Saskatchewan
+
+Current - 2020 Jul
+
+::: concise
+- Conducted power quality studies
+- Programmed and tested distribution assets
+- Assisted with coordination studies
+:::
+
+### Distribution Engineering, O&M Support South Co-op Student
+
+SaskPower
+
+Regina, Saskatchewan
+
+Dec 2019 - Aug 2019
+
+::: concise
+- Developed a thermal inspection program
+- Assisted with substation automation project
+- Analyzed Data for Regina Re-energization Policy
+:::
+
+### Distribution Engineering, O&M Support North Co-op Student
+
+SaskPower
+
+Saskatoon, Saskatchewan
+
+Apr 2019 - Jan 2019
+
+::: concise
+- Conducted net-metering applications
+- Communicated fault data with customers
+- Assisted with wiring and installation of substation automation project 
+:::
+
+### Apparatus Maintenance, System Test/Apparatus Crew Co-op Student
+
+SaskPower
+
+Regina, Saskatchewan
+
+Aug 2018 - Jul 2018
+
+::: concise
+- Worked with crew to install apparatus in HV substations
+- Refurbished 230KV air blast breakers at Boundary Dam
+- Assisted with transformer and breaker tests
+:::
+
+### Utility Line Locator
+
+Shermco Industries 
+
+Saskatoon, Saskatchewan
+
+Aug 2017 - Jul 2013
+
+::: concise
+- Trained new employees on the fundamentals of underground line locating
+- Scheduled work based on priority 
+- Interfaced with customers, contractors and utilities
+:::
+### Assistant Utility Line Locator
+
+Shermco Industries 
+
+Saskatoon, Saskatchewan
+
+Dec 2012 - Jun 2012
+
+::: concise
+- Assisted with line locates
+- Designed locate maps
+- Learned basic electrical principles
+:::
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Saskatchewan Polytechnic
+
+Diploma in Electrical Engineering Technology with Distinction 
+
+Moose Jaw, Saskatchewan 
+
+2020
+
+Capstone Paper: Proposed Thermal Camera Monitoring System for Preventative Maintenance of Electrical Apparatus
+
+### University of Saskatchewan
+
+Three academic semesters completed
+
+Saskatoon, Saskatchewan
+
+2015
+
+### Evan Hardy Collegiate 
+
+Grade 12 Diploma
+
+Saskatoon, Saskatchewan
+
+2012
+
+Awards {data-icon=gift}
+--------------------------------------------------------------------------------
+
+### Marty Lund Memorial Academic Award 
+
+EET Program
+
+Moose Jaw, Saskatchewan
+
+2019
+
+### Stantec Consulting Ltd. Academic Award
+
+EET Program
+
+Moose Jaw, Saskatchewan
+
+2018
+
+References {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Available upon request 
